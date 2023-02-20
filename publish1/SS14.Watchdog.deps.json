@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0/linux-x64",
+    "name": ".NETCoreApp,Version=v6.0/arch-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {},
-    ".NETCoreApp,Version=v6.0/linux-x64": {
+    ".NETCoreApp,Version=v6.0/arch-x64": {
       "SS14.Watchdog/0.2.0": {
         "dependencies": {
           "JetBrains.Annotations": "2020.3.0",
